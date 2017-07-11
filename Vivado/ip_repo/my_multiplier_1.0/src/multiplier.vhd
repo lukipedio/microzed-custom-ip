@@ -13,8 +13,7 @@ entity multiplier is
 end multiplier;
 
 architecture IMP of multiplier is
-  
-  
+ 
 begin
   process (clk)
   begin
